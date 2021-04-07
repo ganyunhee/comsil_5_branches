@@ -1,2 +1,2 @@
 This is the text from master.
-This is a textfile from testbranch
+This is a textfile from testbranch.
