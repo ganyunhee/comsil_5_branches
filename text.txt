@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 This is the text from master.
+=======
+
+
+This is a text file from testbranch.
+>>>>>>> testbranch
